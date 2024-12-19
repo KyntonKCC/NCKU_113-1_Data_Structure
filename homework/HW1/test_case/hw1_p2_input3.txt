@@ -1,0 +1,9 @@
+insert 50 
+insert 30 
+insert 40 
+insert 20 
+insert 35 
+delete 20 
+insert 25 
+insert 45 
+delete 25 
